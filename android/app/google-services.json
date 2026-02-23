@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210728908919",
+    "project_id": "perpus-a7351",
+    "storage_bucket": "perpus-a7351.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210728908919:android:9c9fbdc571a4ccfae02e72",
+        "android_client_info": {
+          "package_name": "com.mytechperpus.apk_penulis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210728908919-d5aof41ktri9gf60mprm3b9g854ia26v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytechperpus.apk_penulis",
+            "certificate_hash": "5ea71e958cb36d799bad07ccb8d2910c144f8e53"
+          }
+        },
+        {
+          "client_id": "210728908919-vfl0g5tvnj5nlsonq50u4vcpl4604vif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvi7fG9GUEeoDPE5CH_dheG4iLAmg468k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210728908919-vfl0g5tvnj5nlsonq50u4vcpl4604vif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
